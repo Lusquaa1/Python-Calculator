@@ -1,0 +1,13 @@
+menu = ("  |======= CALCULADORA =======|\n"
+"A)|ADIÇÃO                     |\n"
+"B)|MULTIPLICAÇÃO              |\n"
+"C)|POTENCIAÇÃO                |\n"
+"D)|SUBTRAÇÃO                  |\n"
+"E)|DIVISÃO INT                |\n"
+"F)|DIVISÃO NÃO INT            |\n"
+"G)|TABUADA                    |\n"
+"  |===== TRIGONOMETRIA =======|\n"
+"H)|CALCULO DE HIPOTENUSA      |\n"
+"I)|CALCULO DE CATETO ADJACENTE|\n"
+"J)|CALCULO DE CATETO OPOSTO   |\n"
+"K)|      ----MORE---->        |")
